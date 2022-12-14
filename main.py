@@ -380,4 +380,4 @@ if __name__ == '__main__':
         cprint(f'\nvalue : {sum(full_value)} $', 'green')
         result.append(sum(full_value))
 
-    cprint(f'\nFULL BALANCE : {sum(result)} $', 'yellow')
+    cprint(f'\nFULL BALANCE : {sum(result)} $', 'yellow') 
